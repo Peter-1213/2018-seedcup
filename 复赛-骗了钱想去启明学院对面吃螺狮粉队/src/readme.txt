@@ -1,0 +1,1 @@
+valid部分我们使用了自己cut的数据集train_b_cut.txt, valid_b_cut.txt, 如果跑不通，修改文件名（或者代码）即可。
